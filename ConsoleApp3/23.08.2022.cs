@@ -39,9 +39,18 @@ internal class Program
         return a;
     }
 
-    public static void PrintArrayWithoutLoop(int[] arr)
+    public static void PrintArrayWithoutLoop(int[] arr, int indx = 0)
     {
-        Console.WriteLine(string.Join(",", arr));
+        if (indx > arr.Length-1)
+        {
+            return;
+        }
+        else
+        {
+            Console.WriteLine(arr[indx]);
+            indx++;
+            PrintArrayWithoutLoop(arr, indx);
+        }
     }
 
     public static void FindCharacterInArray(string[] arr, char character)
