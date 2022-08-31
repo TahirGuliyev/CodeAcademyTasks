@@ -10,15 +10,19 @@ namespace ConsoleApp3.Models
 {
     public class User
     {
-        [Required]
         [StringLength(100)]
         public string Name { get; set; }
         [ValidEmail]
         public string Email { get; set; }
+        [ValidEmail]
         public string Password { get; set; }
         public User(string email)
         {
             Email = email;
+        }
+
+        public User()
+        {
         }
     }
 }
