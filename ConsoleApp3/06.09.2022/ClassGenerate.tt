@@ -1,0 +1,36 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Data.SqlClient" #>
+<#@ import namespace="System.IO" #>
+
+<#
+
+const string connection = "Server=localhost;Database=NORTHWND;Trusted_Connection=True;MultipleActiveResultSets=true";
+
+var path = @"C:\Users\tahir\OneDrive\Masaüstü\T4TemplateHomeWork\Models\";
+Directory.CreateDirectory(Path.Combine(path));
+
+using (SqlConnection con = new SqlConnection(connection))
+{
+    con.Open();
+    using (SqlCommand cmd = new SqlCommand("SELECT table_name FROM information_schema.tables WHERE table_type = 'base table'", con))
+    {
+        SqlDataReader dr = cmd.ExecuteReader();
+        while (dr.Read())
+        {
+            FileStream fs = File.Create(Path.Combine(path, dr[0].ToString() + ".cs"));
+            fs.Close();
+            StreamWriter writer = new StreamWriter(Path.Combine(path, dr[0].ToString()  + ".cs"));
+            writer.WriteLine("namespace T4TemplateHomeWork.Models");
+            writer.WriteLine("{");
+            writer.WriteLine("public class " + dr[0].ToString());
+            writer.WriteLine("{");
+            writer.WriteLine("}");
+            writer.WriteLine("}");
+        }
+    }
+}
+#>
