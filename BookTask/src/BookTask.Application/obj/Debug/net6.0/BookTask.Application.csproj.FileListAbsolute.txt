@@ -1,0 +1,12 @@
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\bin\Debug\net6.0\BookTask.Application.deps.json
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\bin\Debug\net6.0\BookTask.Application.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\bin\Debug\net6.0\BookTask.Application.pdb
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.csproj.AssemblyReference.cache
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.AssemblyInfoInputs.cache
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.AssemblyInfo.cs
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\refint\BookTask.Application.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\BookTask.Application.pdb
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\BookTask.Application\obj\Debug\net6.0\ref\BookTask.Application.dll

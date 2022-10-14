@@ -1,0 +1,17 @@
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.AssemblyInfo.cs
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Infrastructure.deps.json
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Infrastructure.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Infrastructure.pdb
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Application.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Domain.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Application.pdb
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\bin\Debug\net6.0\BookTask.Domain.pdb
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.csproj.CopyComplete
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\refint\BookTask.Infrastructure.dll
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\BookTask.Infrastructure.pdb
+C:\Users\tahir\Desktop\CodeAcademy\BookTask\src\BookTask.Infrastructure\obj\Debug\net6.0\ref\BookTask.Infrastructure.dll

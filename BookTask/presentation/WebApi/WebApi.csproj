@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BookTask.Application\BookTask.Application.csproj" />
+    <ProjectReference Include="..\..\src\BookTask.Domain\BookTask.Domain.csproj" />
+    <ProjectReference Include="..\..\src\BookTask.Infrastructure\BookTask.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\src\Persistence\Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
